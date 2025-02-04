@@ -19,4 +19,4 @@ print(x + y)
 
 
 #Assignment: The product of 39 and 2 is 78
-print("The product of", x, "and", y, "is", a)
+print("The product of", x, "and", y, "is", x*y)
